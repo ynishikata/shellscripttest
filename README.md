@@ -1,5 +1,5 @@
 # shellscripttest
 
-testing code snippets for shell scripts, which spans: 
+testing code snippets for shell scripts(zsh) including: 
 * coloring shell script
 * emoji
